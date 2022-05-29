@@ -1,1 +1,4 @@
 mylog.log
+*.c
+*.cpp
+*.exe
